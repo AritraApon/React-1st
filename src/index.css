@@ -48,7 +48,7 @@ button {
 }
 button:hover {
   border-color: #646cff;
-  
+
 }
 button:focus,
 button:focus-visible {
@@ -66,4 +66,15 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+
+.card{
+  margin: 20px;
+  border: 3px solid red;
+  background-color: #213547;
+}
+.card2{
+  margin: 20px;
+  border: 3px solid rgb(21, 255, 0);
+  background-color: #2485da;
 }
